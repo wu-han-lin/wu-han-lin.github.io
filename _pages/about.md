@@ -31,7 +31,7 @@ Now I'm a first year Ph.D. student at the Institute for AI Industry Research (AI
 
 Previously, I earned my Bachelor's degree in Artificial Intelligence, from the School of Computer Science and Technology at Beijing Institute of Technology.
 
-I'm particularly interested in building probabilistic method for advancing machine learning research. I'm quite familar with generative modeling (diffusion, flow matching, Bayesian flow networks, etc.) and molecular generation (small molecule, crystal, protein).
+I’m particularly interested in developing probabilistic methods to advance machine learning research. Specifically, I’m well-versed in generative modeling—such as diffusion models, flow matching, and Bayesian flow networks—and their applications in molecular generation, including small molecules, crystals, and proteins.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
