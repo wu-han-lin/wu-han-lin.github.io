@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Now I'm a first year Ph.D. student at the Institute for AI Industry Research (AIR), Tsinghua University, co-advised by [Prof. Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm) and Prof. [Hao Zhou](https://zhouh.github.io/).
+Now I'm a first year Ph.D. student at the Institute for AI Industry Research (AIR), Tsinghua University, co-advised by [Prof. Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm) and Prof. [Hao Zhou](https://zhouh.github.io/). 
 
+Previously, I earned my Bachelor's degree in Artificial Intelligence, from the School of Computer Science and Technology at Beijing Institute of Technology.
 
-
-Research Interest: Generative Modeling, Molecular Generation
+I'm particularly interested in building probabilistic method for advancing machine learning research. I'm quite familar with generative modeling (diffusion, flow matching, Bayesian flow networks, etc.) and molecular generation (small molecule, crystal, protein).
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
