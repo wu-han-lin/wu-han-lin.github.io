@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Now I'm a first year Ph.D. student at the Institute for AI Industry Research (AIR), Tsinghua University, co-advised by [Prof. Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm) and Prof. [Hao Zhou](https://zhouh.github.io/). 
+Now I'm a first year Ph.D. student at the Institute for AI Industry Research (AIR), Tsinghua University, co-advised by [Prof. Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm) and [Prof. Hao Zhou](https://zhouh.github.io/). 
 
 Previously, I earned my Bachelor's degree in Artificial Intelligence, from the School of Computer Science and Technology at Beijing Institute of Technology.
 
