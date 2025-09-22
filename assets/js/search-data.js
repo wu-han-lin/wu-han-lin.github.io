@@ -394,6 +394,9 @@ ninja.data = [{
             },},{id: "news-crysbfn-has-been-selected-as-spotlight-paper-at-iclr-2025",
           title: 'CrysBFN has been selected as Spotlight paper at ICLR 2025!',
           description: "",
+          section: "News",},{id: "news-3-papers-proteobayes-mof-bfn-and-moltd-has-been-accepted-at-neurips-2025",
+          title: '3 Papers (ProteoBayes, MOF-BFN, and MolTD) has been accepted at NeurIPS 2025!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
